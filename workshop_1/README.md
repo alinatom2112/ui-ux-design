@@ -6,17 +6,17 @@
 Розмір: 4624x3468
 Формат: jpg
 Вага: 4,82 МБ
-
+![Image alt](https://github.com/alinatom2112/ui-ux-design/raw/main/workshop_1/img/photo.jpg)
 ### Скріншот
 Розмір: 1919x921
 Формат: png
 Вага: 228 КБ
-
+![Image alt](https://github.com/alinatom2112/ui-ux-design/raw/main/workshop_1/img/screenshot.png)
 ### Графічне зображення з текстом
 Розмір: 736x888
 Формат: jpg
 Вага: 20 КБ
-
+![Image alt](https://github.com/alinatom2112/ui-ux-design/raw/main/workshop_1/img/graphic.jpg)
 ### 2. Стиснення без втрати якості (lossless)
 | Формат  | Фото | Скріншот | Графічне зображення |
 | ------------- | ------------- | ------------- | ------------- |
